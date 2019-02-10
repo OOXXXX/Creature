@@ -28,7 +28,7 @@ class ViewController: UIViewController
         firstView.backgroundColor = UIColor.blue
         self.view.addSubview(secondView)
         
-        let thirdView = UIView(frame: CGRect(x: 40, y: 80, width: 140, height: 140))
+        let thirdView = UIView(frame: CGRect(x: 40, y: 80, width: 130, height: 130))
         thirdView.backgroundColor = UIColor.purple
         self.view.addSubview(thirdView)
         
